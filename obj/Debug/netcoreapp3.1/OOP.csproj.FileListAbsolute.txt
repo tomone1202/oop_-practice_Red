@@ -1,0 +1,14 @@
+D:\OOP SKA\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+D:\OOP SKA\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+D:\OOP SKA\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+D:\OOP SKA\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+D:\OOP SKA\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+D:\OOP SKA\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+D:\OOP SKA\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.AssemblyReference.cache
+D:\OOP SKA\OOP\obj\Debug\netcoreapp3.1\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP SKA\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+D:\OOP SKA\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+D:\OOP SKA\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+D:\OOP SKA\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+D:\OOP SKA\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+D:\OOP SKA\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
